@@ -1,0 +1,11 @@
+num1 = float(input("please enter first number"))
+num2 = float(input("please enter second number"))
+num3 = float(input("please enter third number"))
+num4 = float(input("please enter fourth number"))
+num5 = float(input("please enter fifth number"))
+
+print(num1 + num2 + num3 + num4 + num5)
+print(num1 - num2 - num3 - num4 - num5)
+print(num1 / num2 / num3 / num4 / num5)
+print(num1 * num2 * num3 * num4 * num5)
+print(num1 % num2 % num3 % num4 % num5)
