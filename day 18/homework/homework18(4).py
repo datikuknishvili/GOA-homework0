@@ -1,0 +1,1 @@
+num = int(input("How many items do you want to buy?"))
